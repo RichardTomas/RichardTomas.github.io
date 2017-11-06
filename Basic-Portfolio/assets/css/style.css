@@ -55,7 +55,7 @@ body {
 	width: 650px;
 	margin-top: 40px;
 	padding: 20px;
-	/*float: left*/
+	float: left;
 }
 		
 .title {
@@ -89,6 +89,7 @@ body {
 	background: #ffffff;
 	width: 270px;
 	height: 200px;
+	margin-left: 40px;
 }
 
 .connect {
@@ -154,11 +155,9 @@ input[type=submit] {
 }
 .card {
 	position: relative;
- 	width: 255px;
- 	height: 170px;
- 	padding: 10px;
+  	padding: 10px;
  	margin-left: 25px;
- 	/*float: left;*/
+ 	float: left;
 }
 
 .tags {
@@ -171,5 +170,5 @@ input[type=submit] {
 	width: 255px;
 	height: 40px;
 	position: absolute;
-	bottom: 10px;
+	bottom: 20px;
 }
