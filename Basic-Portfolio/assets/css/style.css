@@ -11,9 +11,13 @@ body {
 	border-bottom: 3px solid #dddddd;
 	border-color: #cccccc;
 	height: 90px;
+	margin-top: 10px;
+}
+
+.menu {
 	width: 960px;
 	margin:auto;
-	margin-top: 10px;
+
 }
 
 .name {
